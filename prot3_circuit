@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T09:00:16.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="kv5o7YIOE86cNaw7K5Qu" version="21.2.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-05-08T09:00:25.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="QF4l6VV7WedZxuMFG99I" version="21.2.9" type="github" pages="9">
   <diagram name="電源回路" id="Stw0mdpoMd6me1XZxPp1">
     <mxGraphModel dx="1588" dy="876" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -4199,7 +4199,7 @@
           <mxGeometry x="200" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r4WBlQE9LN5NY_il385M-2" value="ACアダプタ&lt;br&gt;AC200V→DC5V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r4WBlQE9LN5NY_il385M-3" value="表示灯1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="166" width="110" height="55" as="geometry" />
