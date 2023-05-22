@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T13:29:23.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="hXcZyfO1iCFdTVCUHnVR" version="21.3.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-05-22T13:30:16.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SjmXCKzp6-59d50o3AOx" version="21.3.2" type="github" pages="14">
   <diagram id="vdiVQ_NP01WpwPnSVzkP" name="操作盤電源回路1">
     <mxGraphModel dx="2390" dy="1273" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1309,7 +1309,7 @@
         <mxCell id="wlBePLSVszSSgeVy0K0Z-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;2023年5月22日&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kaGuFr0qrdCtgmDWakj5-0">
           <mxGeometry x="539" y="767" width="179" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wlBePLSVszSSgeVy0K0Z-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;1&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kaGuFr0qrdCtgmDWakj5-0">
+        <mxCell id="wlBePLSVszSSgeVy0K0Z-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;2&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kaGuFr0qrdCtgmDWakj5-0">
           <mxGeometry x="45" y="769" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gqdDxtsO_WHCseoiNgqz-1" value="制御図" parent="gqdDxtsO_WHCseoiNgqz-0" />
@@ -1906,7 +1906,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Kh72geNL5s8gZfAE6fvE" name="制御盤電源回路2">
-    <mxGraphModel dx="3585" dy="1910" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1091" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="制御図" parent="0" />
@@ -2715,7 +2715,7 @@
         <mxCell id="yuYBoCr1T9riWhRbYqU3-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;2023年5月22日&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yuYBoCr1T9riWhRbYqU3-1">
           <mxGeometry x="542" y="770" width="179" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yuYBoCr1T9riWhRbYqU3-35" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;1&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yuYBoCr1T9riWhRbYqU3-1">
+        <mxCell id="yuYBoCr1T9riWhRbYqU3-35" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;3&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yuYBoCr1T9riWhRbYqU3-1">
           <mxGeometry x="48" y="772" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
