@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T13:54:05.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="liFk7FOx03K9y1-Frwvp" version="21.3.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-05-22T14:14:51.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="VzHmmDRL4FOzvr2Co0qG" version="21.3.2" type="github" pages="14">
   <diagram id="vdiVQ_NP01WpwPnSVzkP" name="操作盤電源回路1">
     <mxGraphModel dx="2390" dy="1273" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1236,7 +1236,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="制御ボックス電源回路" id="8TQpti19CQuOrY5o8Ndl">
-    <mxGraphModel dx="2390" dy="1273" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1389" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="gqdDxtsO_WHCseoiNgqz-0" />
         <mxCell id="kaGuFr0qrdCtgmDWakj5-0" value="図枠" parent="gqdDxtsO_WHCseoiNgqz-0" />
@@ -1313,6 +1313,16 @@
           <mxGeometry x="45" y="769" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gqdDxtsO_WHCseoiNgqz-1" value="制御図" parent="gqdDxtsO_WHCseoiNgqz-0" />
+        <mxCell id="YUbnvAdXUYfDRPwV2k7R-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="gqdDxtsO_WHCseoiNgqz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="198" y="612" as="sourcePoint" />
+            <mxPoint x="237" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="891" y="612" />
+              <mxPoint x="891" y="657" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gqdDxtsO_WHCseoiNgqz-3" value="" style="endArrow=none;html=1;rounded=0;" parent="gqdDxtsO_WHCseoiNgqz-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="198" y="720" as="sourcePoint" />
@@ -1902,11 +1912,50 @@
         <mxCell id="shkbOfO0Qxh-bLLK_6fz-136" value="無線充電ユニット" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gqdDxtsO_WHCseoiNgqz-1" vertex="1">
           <mxGeometry x="825" y="312" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YUbnvAdXUYfDRPwV2k7R-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
+          <mxGeometry x="336" y="597" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YUbnvAdXUYfDRPwV2k7R-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
+          <mxGeometry x="432" y="597" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YUbnvAdXUYfDRPwV2k7R-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
+          <mxGeometry x="531" y="597" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YUbnvAdXUYfDRPwV2k7R-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
+          <mxGeometry x="627" y="597" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YUbnvAdXUYfDRPwV2k7R-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
+          <mxGeometry x="723" y="597" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YUbnvAdXUYfDRPwV2k7R-7" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
+          <mxGeometry x="188" y="602" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YUbnvAdXUYfDRPwV2k7R-8" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
+          <mxGeometry x="227" y="650" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YUbnvAdXUYfDRPwV2k7R-9" value="R1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
+          <mxGeometry x="355" y="576" width="27" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="YUbnvAdXUYfDRPwV2k7R-10" value="R2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
+          <mxGeometry x="450" y="576" width="27" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="YUbnvAdXUYfDRPwV2k7R-11" value="R3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
+          <mxGeometry x="549" y="576" width="27" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="YUbnvAdXUYfDRPwV2k7R-12" value="R4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
+          <mxGeometry x="644" y="576" width="27" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="YUbnvAdXUYfDRPwV2k7R-13" value="R5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
+          <mxGeometry x="739.5" y="576" width="27" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="YUbnvAdXUYfDRPwV2k7R-14" value="非常停止用リレー用&lt;br&gt;コイル制御接点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
+          <mxGeometry x="473.5" y="670" width="139" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Kh72geNL5s8gZfAE6fvE" name="制御盤電源回路2">
-    <mxGraphModel dx="1687" dy="899" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1091" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="yuYBoCr1T9riWhRbYqU3-1" value="図枠" parent="0" />
