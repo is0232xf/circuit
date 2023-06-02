@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T02:49:25.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jQzZDqTAISPhr58JyUXO" version="21.3.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-02T17:10:58.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vWX8rpa_PgmamdGbkHdr" version="21.3.7" type="github" pages="14">
   <diagram id="vdiVQ_NP01WpwPnSVzkP" name="操作盤電源回路1">
-    <mxGraphModel dx="1189" dy="1160" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="472" dy="754" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="ET6ab0jlYDZkk08AltrM-252" value="図枠" style="" parent="0" />
@@ -1233,7 +1233,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="制御ボックス電源回路" id="8TQpti19CQuOrY5o8Ndl">
-    <mxGraphModel dx="468" dy="457" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="472" dy="754" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="gqdDxtsO_WHCseoiNgqz-0" />
         <mxCell id="kaGuFr0qrdCtgmDWakj5-0" value="図枠" parent="gqdDxtsO_WHCseoiNgqz-0" />
@@ -1955,7 +1955,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Kh72geNL5s8gZfAE6fvE" name="制御盤電源回路2">
-    <mxGraphModel dx="2390" dy="1273" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="899" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="yuYBoCr1T9riWhRbYqU3-1" value="図枠" parent="0" />
