@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T12:42:36.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7EM6Smxwk6Gy53gGU0sR" version="21.3.8" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-06-12T12:43:58.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1dBAm6P2E3GxFIcQLG-U" version="21.3.8" type="github" pages="17">
   <diagram name="搬送シャトル電源回路配線図" id="7bDstf4dUAkGpSZyx4Cv">
-    <mxGraphModel dx="956" dy="504" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="360" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gzlnxei1ocEgvoGUkItV-0" />
         <mxCell id="gzlnxei1ocEgvoGUkItV-1" style="locked=1;" parent="gzlnxei1ocEgvoGUkItV-0" />
@@ -670,6 +670,9 @@
         </mxCell>
         <mxCell id="IA_d4mBU5tfU0jqNxJSC-26" value="【CB】&lt;br&gt;BL-1C 30A NN&lt;br&gt;(三菱電機)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=none;strokeColor=none;" vertex="1" parent="jhOd3ifqvPic8i-2HhUA-0">
           <mxGeometry x="770" y="437" width="58" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IA_d4mBU5tfU0jqNxJSC-27" value="【TB】&lt;br&gt;T30C02&#x9;&lt;br&gt;(パトライト)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=none;strokeColor=none;" vertex="1" parent="jhOd3ifqvPic8i-2HhUA-0">
+          <mxGeometry x="766" y="266.29" width="74" height="57.41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
