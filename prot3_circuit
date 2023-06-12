@@ -1,9 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T12:37:43.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QF5UbgXwonn7Tt-UfyRV" version="21.3.8" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-06-12T12:42:36.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7EM6Smxwk6Gy53gGU0sR" version="21.3.8" type="github" pages="17">
   <diagram name="搬送シャトル電源回路配線図" id="7bDstf4dUAkGpSZyx4Cv">
-    <mxGraphModel dx="819" dy="432" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="504" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gzlnxei1ocEgvoGUkItV-0" />
-        <mxCell id="gzlnxei1ocEgvoGUkItV-1" style="locked=1;" parent="gzlnxei1ocEgvoGUkItV-0" visible="0" />
+        <mxCell id="gzlnxei1ocEgvoGUkItV-1" style="locked=1;" parent="gzlnxei1ocEgvoGUkItV-0" />
         <mxCell id="gzlnxei1ocEgvoGUkItV-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="gzlnxei1ocEgvoGUkItV-1" vertex="1">
           <mxGeometry width="1654" height="1150" as="geometry" />
         </mxCell>
@@ -232,12 +232,6 @@
             <mxPoint x="735" y="558" as="sourcePoint" />
             <mxPoint x="735" y="465" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="jhOd3ifqvPic8i-2HhUA-46" value="【CB】&lt;br&gt;BL-1C 30A NN&lt;br&gt;(三菱電機)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="jhOd3ifqvPic8i-2HhUA-0" vertex="1">
-          <mxGeometry x="763" y="447" width="92" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IA_d4mBU5tfU0jqNxJSC-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="jhOd3ifqvPic8i-2HhUA-46">
-          <mxGeometry x="51" y="23" width="41" height="27" as="geometry" />
         </mxCell>
         <mxCell id="jhOd3ifqvPic8i-2HhUA-47" value="AWG16 RED" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Helvetica;fontColor=default;" parent="jhOd3ifqvPic8i-2HhUA-0" vertex="1">
           <mxGeometry x="745" y="394" width="68" height="16" as="geometry" />
@@ -579,19 +573,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nEzM67IJkHb5nE1tpig5-0" value="&lt;u&gt;1000&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jhOd3ifqvPic8i-2HhUA-0">
-          <mxGeometry x="385" y="89.5" width="30" height="15" as="geometry" />
+          <mxGeometry x="314" y="89.5" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="nEzM67IJkHb5nE1tpig5-2" value="&lt;u&gt;1001&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jhOd3ifqvPic8i-2HhUA-0">
-          <mxGeometry x="385" y="113" width="30" height="15" as="geometry" />
+          <mxGeometry x="314" y="113" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="nEzM67IJkHb5nE1tpig5-3" value="&lt;u&gt;1002&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jhOd3ifqvPic8i-2HhUA-0">
-          <mxGeometry x="385" y="192" width="30" height="15" as="geometry" />
+          <mxGeometry x="314" y="192" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="nEzM67IJkHb5nE1tpig5-4" value="&lt;u&gt;1003&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jhOd3ifqvPic8i-2HhUA-0">
-          <mxGeometry x="385" y="335" width="30" height="15" as="geometry" />
+          <mxGeometry x="314" y="335" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="nEzM67IJkHb5nE1tpig5-5" value="&lt;u&gt;1004&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jhOd3ifqvPic8i-2HhUA-0">
-          <mxGeometry x="385" y="358.5" width="30" height="15" as="geometry" />
+          <mxGeometry x="314" y="358.5" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="nEzM67IJkHb5nE1tpig5-6" value="1005" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Helvetica;fontColor=default;fontStyle=4" vertex="1" parent="jhOd3ifqvPic8i-2HhUA-0">
           <mxGeometry x="745" y="409" width="68" height="16" as="geometry" />
@@ -673,6 +667,9 @@
         </mxCell>
         <mxCell id="IA_d4mBU5tfU0jqNxJSC-25" value="1305" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Helvetica;fontColor=default;fontStyle=4" vertex="1" parent="jhOd3ifqvPic8i-2HhUA-0">
           <mxGeometry x="1226" y="1044" width="68" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="IA_d4mBU5tfU0jqNxJSC-26" value="【CB】&lt;br&gt;BL-1C 30A NN&lt;br&gt;(三菱電機)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=none;strokeColor=none;" vertex="1" parent="jhOd3ifqvPic8i-2HhUA-0">
+          <mxGeometry x="770" y="437" width="58" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
