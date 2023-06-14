@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T12:51:08.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gUHfWK3H3aAubiAIMXbA" version="21.3.8" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-06-14T12:51:36.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZiuPIYkcm7rgK5GWH5ky" version="21.3.8" type="github" pages="15">
   <diagram id="AtWtAd9BteugGpvbrdnh" name="図枠テンプレート">
     <mxGraphModel dx="794" dy="438" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="搬送シャトル電源回路配線図" id="7bDstf4dUAkGpSZyx4Cv">
-    <mxGraphModel dx="1247" dy="694" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="998" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gzlnxei1ocEgvoGUkItV-0" />
         <mxCell id="gzlnxei1ocEgvoGUkItV-1" style="" parent="gzlnxei1ocEgvoGUkItV-0" />
@@ -440,7 +440,7 @@
           <mxGeometry x="404" y="683" width="58" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Epj4oGXXckpkjiryhh7c-17" value="【RL1】&lt;br&gt;LY2 DC24&lt;br&gt;(Omron)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=none;strokeColor=none;" parent="jhOd3ifqvPic8i-2HhUA-0" vertex="1">
-          <mxGeometry x="645" y="763" width="58" height="45" as="geometry" />
+          <mxGeometry x="668" y="763" width="58" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Epj4oGXXckpkjiryhh7c-21" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;" parent="jhOd3ifqvPic8i-2HhUA-0" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -803,7 +803,7 @@
           <mxGeometry x="784" y="865" width="4" height="4" as="geometry" />
         </mxCell>
         <mxCell id="5Q4ED_Hga-w-b6ajPjlN-15" value="【RL2】&lt;br&gt;LY2 DC24&lt;br&gt;(Omron)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=none;strokeColor=none;" vertex="1" parent="jhOd3ifqvPic8i-2HhUA-0">
-          <mxGeometry x="831" y="763" width="58" height="45" as="geometry" />
+          <mxGeometry x="812" y="763" width="58" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5Q4ED_Hga-w-b6ajPjlN-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#000000;strokeColor=none;" vertex="1" parent="jhOd3ifqvPic8i-2HhUA-0">
           <mxGeometry x="781" y="797" width="4" height="4" as="geometry" />
