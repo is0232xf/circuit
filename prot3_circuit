@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T12:51:36.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZiuPIYkcm7rgK5GWH5ky" version="21.3.8" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-06-14T13:14:48.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="uqcHnhCO6pOJCoPjl1l2" version="21.3.8" type="github" pages="15">
   <diagram id="AtWtAd9BteugGpvbrdnh" name="図枠テンプレート">
     <mxGraphModel dx="794" dy="438" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="搬送シャトル電源回路配線図" id="7bDstf4dUAkGpSZyx4Cv">
-    <mxGraphModel dx="1793" dy="998" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="840" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gzlnxei1ocEgvoGUkItV-0" />
         <mxCell id="gzlnxei1ocEgvoGUkItV-1" style="" parent="gzlnxei1ocEgvoGUkItV-0" />
@@ -877,10 +877,10 @@
     </mxGraphModel>
   </diagram>
   <diagram name="コンベア部配線図" id="Vr3wPUVc4v1bM8ih_iKD">
-    <mxGraphModel dx="2049" dy="1140" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="665" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_azRdMmtn2EAgb4f36zm-0" />
-        <mxCell id="_azRdMmtn2EAgb4f36zm-1" style="" parent="_azRdMmtn2EAgb4f36zm-0" />
+        <mxCell id="_azRdMmtn2EAgb4f36zm-1" style="" parent="_azRdMmtn2EAgb4f36zm-0" visible="0" />
         <mxCell id="_azRdMmtn2EAgb4f36zm-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="_azRdMmtn2EAgb4f36zm-1" vertex="1">
           <mxGeometry x="20" y="20" width="1614" height="1050" as="geometry" />
         </mxCell>
@@ -2078,7 +2078,7 @@
           <mxGeometry x="1295" y="378" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="iq2zt6F7tQNQwFJeAwRt-84" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="CAmEFp-4yv3d8ZOHfbYR-260" vertex="1">
-          <mxGeometry x="1150" y="565" width="363" height="78" as="geometry" />
+          <mxGeometry x="1143" y="497" width="363" height="130" as="geometry" />
         </mxCell>
         <mxCell id="iq2zt6F7tQNQwFJeAwRt-85" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="iq2zt6F7tQNQwFJeAwRt-84" vertex="1">
           <mxGeometry width="363" height="26" as="geometry" />
@@ -2130,6 +2130,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vet3tlkeKUUDU_z-GGW6-35" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;KVC-36 2芯(3コより)×0.2SQ&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Vet3tlkeKUUDU_z-GGW6-32" vertex="1">
+          <mxGeometry x="194" width="169" height="26" as="geometry">
+            <mxRectangle width="169" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VKeMayYMh9IsnSBkBAhl-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iq2zt6F7tQNQwFJeAwRt-84">
+          <mxGeometry y="78" width="363" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VKeMayYMh9IsnSBkBAhl-2" value="フェルール端子" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VKeMayYMh9IsnSBkBAhl-1">
+          <mxGeometry width="104" height="26" as="geometry">
+            <mxRectangle width="104" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VKeMayYMh9IsnSBkBAhl-3" value="ミスミ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VKeMayYMh9IsnSBkBAhl-1">
+          <mxGeometry x="104" width="90" height="26" as="geometry">
+            <mxRectangle width="90" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VKeMayYMh9IsnSBkBAhl-4" value="MTRE 0.25-8VL" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VKeMayYMh9IsnSBkBAhl-1">
+          <mxGeometry x="194" width="169" height="26" as="geometry">
+            <mxRectangle width="169" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VKeMayYMh9IsnSBkBAhl-9" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iq2zt6F7tQNQwFJeAwRt-84">
+          <mxGeometry y="104" width="363" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VKeMayYMh9IsnSBkBAhl-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VKeMayYMh9IsnSBkBAhl-9">
+          <mxGeometry width="104" height="26" as="geometry">
+            <mxRectangle width="104" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VKeMayYMh9IsnSBkBAhl-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VKeMayYMh9IsnSBkBAhl-9">
+          <mxGeometry x="104" width="90" height="26" as="geometry">
+            <mxRectangle width="90" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VKeMayYMh9IsnSBkBAhl-12" value="XHコネクタ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="VKeMayYMh9IsnSBkBAhl-9">
           <mxGeometry x="194" width="169" height="26" as="geometry">
             <mxRectangle width="169" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -2544,6 +2580,9 @@
         </mxCell>
         <mxCell id="K-g820J-3j-iRaU3H8wV-2" value="配線例" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CAmEFp-4yv3d8ZOHfbYR-260">
           <mxGeometry x="1485" y="836" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VKeMayYMh9IsnSBkBAhl-0" value="V+，V-はフェルール端子を圧着&lt;br&gt;信号線はXHコネクタピンをかしめる" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CAmEFp-4yv3d8ZOHfbYR-260">
+          <mxGeometry x="1206" y="836" width="216" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
