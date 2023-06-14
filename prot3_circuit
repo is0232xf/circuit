@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T23:53:19.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZqoriQqY8-6jKzEvbVUH" version="21.3.8" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-06-14T23:56:19.281Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DPUX6foIPdP35efIE52x" version="21.3.8" type="github" pages="16">
   <diagram id="AtWtAd9BteugGpvbrdnh" name="A3図枠テンプレート">
     <mxGraphModel dx="2049" dy="1140" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5727,7 +5727,7 @@
         <mxCell id="nbL3eCNLt7XmXCniNyWE-22" value="近接センサx5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gqdDxtsO_WHCseoiNgqz-1" vertex="1">
           <mxGeometry x="1032" y="322" width="83" height="36.09" as="geometry" />
         </mxCell>
-        <mxCell id="bhKOI0CR-_BZXCt4GYEV-1" value="トランス&lt;br&gt;200V→100V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
+        <mxCell id="bhKOI0CR-_BZXCt4GYEV-1" value="トランス&lt;br&gt;200V→100V&lt;br&gt;(150VA)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
           <mxGeometry x="538" y="567" width="89" height="60" as="geometry" />
         </mxCell>
       </root>
