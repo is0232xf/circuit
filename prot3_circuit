@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T12:02:49.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MlByl6CIh7EpUX1s8CJ1" version="21.3.8" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-06-14T10:24:12.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="f9-V-3SmEmLEPHo9O_PS" version="21.3.8" type="github" pages="15">
   <diagram id="AtWtAd9BteugGpvbrdnh" name="図枠テンプレート">
-    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="438" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="搬送シャトル電源回路配線図" id="7bDstf4dUAkGpSZyx4Cv">
-    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="760" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gzlnxei1ocEgvoGUkItV-0" />
         <mxCell id="gzlnxei1ocEgvoGUkItV-1" style="locked=1;" parent="gzlnxei1ocEgvoGUkItV-0" />
@@ -130,7 +130,7 @@
         <mxCell id="jhOd3ifqvPic8i-2HhUA-2" value="" style="group" parent="jhOd3ifqvPic8i-2HhUA-0" vertex="1" connectable="0">
           <mxGeometry x="65" y="104" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jhOd3ifqvPic8i-2HhUA-3" value="【BAT1】&#xa;型番&#xa;(MILESTONE)" style="rounded=0;fillColor=none;align=left;container=0;" parent="jhOd3ifqvPic8i-2HhUA-2" vertex="1">
+        <mxCell id="jhOd3ifqvPic8i-2HhUA-3" value="【BAT1】&#xa;12V リチウム&#xa;イオン電池&#xa;(MILESTONE)" style="rounded=0;fillColor=none;align=left;container=0;" parent="jhOd3ifqvPic8i-2HhUA-2" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhOd3ifqvPic8i-2HhUA-4" value="V+" style="rounded=0;fontFamily=Helvetica;fontSize=8;fontColor=default;fillColor=none;align=center;container=0;" parent="jhOd3ifqvPic8i-2HhUA-2" vertex="1">
@@ -142,7 +142,7 @@
         <mxCell id="jhOd3ifqvPic8i-2HhUA-6" value="" style="group" parent="jhOd3ifqvPic8i-2HhUA-0" vertex="1" connectable="0">
           <mxGeometry x="65" y="182" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jhOd3ifqvPic8i-2HhUA-7" value="【BAT1】&#xa;型番&#xa;(MILESTONE)" style="rounded=0;fillColor=none;align=left;container=0;" parent="jhOd3ifqvPic8i-2HhUA-6" vertex="1">
+        <mxCell id="jhOd3ifqvPic8i-2HhUA-7" value="【BAT2】&#xa;12V リチウム&#xa;イオン電池&#xa;(MILESTONE)" style="rounded=0;fillColor=none;align=left;container=0;" parent="jhOd3ifqvPic8i-2HhUA-6" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhOd3ifqvPic8i-2HhUA-8" value="V+" style="rounded=0;fontFamily=Helvetica;fontSize=8;fontColor=default;fillColor=none;align=center;container=0;" parent="jhOd3ifqvPic8i-2HhUA-6" vertex="1">
