@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T01:48:52.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MFUTbkUaIConoOIwTJGf" version="21.5.0" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-06-19T01:49:44.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TT7DFiVzOkS7IVDvECTi" version="21.5.0" type="github" pages="17">
   <diagram id="AtWtAd9BteugGpvbrdnh" name="A3図枠テンプレート">
     <mxGraphModel dx="794" dy="438" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6207,7 +6207,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Kh72geNL5s8gZfAE6fvE" name="制御盤電源回路2">
-    <mxGraphModel dx="819" dy="432" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="yuYBoCr1T9riWhRbYqU3-1" value="図枠" parent="0" />
@@ -6353,7 +6353,7 @@
             <mxRectangle width="84" height="12" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CFjdCYw1Vujn_9UiRoka-16" value="Omron" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;" vertex="1" parent="CFjdCYw1Vujn_9UiRoka-12">
+        <mxCell id="CFjdCYw1Vujn_9UiRoka-16" value="コーセル" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;" vertex="1" parent="CFjdCYw1Vujn_9UiRoka-12">
           <mxGeometry x="326" width="76" height="12" as="geometry">
             <mxRectangle width="76" height="12" as="alternateBounds" />
           </mxGeometry>
@@ -6399,7 +6399,7 @@
             <mxRectangle width="84" height="12" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CFjdCYw1Vujn_9UiRoka-31" value="パトライト" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;" vertex="1" parent="CFjdCYw1Vujn_9UiRoka-27">
+        <mxCell id="CFjdCYw1Vujn_9UiRoka-31" value="Omron" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;" vertex="1" parent="CFjdCYw1Vujn_9UiRoka-27">
           <mxGeometry x="326" width="76" height="12" as="geometry">
             <mxRectangle width="76" height="12" as="alternateBounds" />
           </mxGeometry>
