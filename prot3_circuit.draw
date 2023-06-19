@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T23:07:23.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QF8FFaHqq2ShirJ27vHy" version="21.5.0" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-06-19T23:07:37.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="FuexdtqYLyynpmA7wl8V" version="21.5.0" type="github" pages="18">
   <diagram id="AtWtAd9BteugGpvbrdnh" name="A3図枠テンプレート">
     <mxGraphModel dx="794" dy="438" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6292,7 +6292,7 @@
         <mxCell id="dmhRPF9vKvcMGjoqV5Dj-1" value="操作盤制御ボックス内" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" parent="5uIs9AfPMyRUOUpJXNhQ-2" vertex="1">
           <mxGeometry x="153" y="639" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2JR8KUSuVX89rqU6bhL3-16" value="図枠" parent="0" visible="0" />
+        <mxCell id="2JR8KUSuVX89rqU6bhL3-16" value="図枠" parent="0" />
         <mxCell id="2JR8KUSuVX89rqU6bhL3-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="2JR8KUSuVX89rqU6bhL3-16" vertex="1">
           <mxGeometry width="1168" height="826" as="geometry" />
         </mxCell>
