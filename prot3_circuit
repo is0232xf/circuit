@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T02:49:27.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nRE2HHHlpdP3dA3MzBek" version="21.5.0" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-06-19T02:55:16.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YZHFZNuOovLqB6UrWQk1" version="21.5.0" type="github" pages="17">
   <diagram id="AtWtAd9BteugGpvbrdnh" name="A3図枠テンプレート">
     <mxGraphModel dx="794" dy="438" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4819,7 +4819,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="制御ボックス電源回路" id="8TQpti19CQuOrY5o8Ndl">
-    <mxGraphModel dx="1247" dy="657" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="796" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="gqdDxtsO_WHCseoiNgqz-0" />
         <mxCell id="wAdAEOUZJtLIrvsDumVz-0" value="図枠" parent="gqdDxtsO_WHCseoiNgqz-0" />
@@ -6171,9 +6171,6 @@
         </mxCell>
         <mxCell id="nvv6F_AsFh3BwPeIhQwf-12" value="KIV 0.5 sq WHITE" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
           <mxGeometry x="671" y="665" width="57" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="nvv6F_AsFh3BwPeIhQwf-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;シャトルレーン&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
-          <mxGeometry x="233" y="721" width="370" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nvv6F_AsFh3BwPeIhQwf-14" value="KIV 0.5 sq&#xa;BLUE" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" vertex="1" parent="gqdDxtsO_WHCseoiNgqz-1">
           <mxGeometry x="475" y="613" width="82" height="15" as="geometry" />
